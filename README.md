@@ -121,7 +121,7 @@ Voici l’organisation des fichiers dans le projet :
 
 ## **🛠 Base de données**
 Voici un aperçu des utilisateurs enregistrés dans MongoDB :
-![Base de données](screenshots/base_de_donnée.png)
+![Base de données](screenshots/base_de_donnee.png)
 
 ---
 

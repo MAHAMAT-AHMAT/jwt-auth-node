@@ -124,6 +124,21 @@ Voici un aperçu des utilisateurs enregistrés dans MongoDB :
 ![Base de données](screenshots/base_de_donnee.png)
 
 ---
+## **🚀 Code du backend**
+
+### **Modèle utilisateur (`user_model.js`)**
+![Modèle utilisateur](screenshots/user_model.png)
+
+### **Controlleur (`login_controller.js`)**
+![Routes](screenshots/login_controller.png)
+
+### **Routes (`login_routes.js`)**
+![Routes](screenshots/login_routes.png)
+
+### **index.js (Configuration du serveur)**
+![Index.js](screenshots/index.png)
+
+---
 
 ## **🔑 Authentification**
 ### **1️⃣ Inscription réussie**
@@ -134,18 +149,7 @@ Voici un aperçu des utilisateurs enregistrés dans MongoDB :
 
 ---
 
-## **🚀 Code du backend**
-### **index.js (Configuration du serveur)**
-![Index.js](screenshots/index.png)
 
-### **Modèle utilisateur (`user_model.js`)**
-![Modèle utilisateur](screenshots/user_model.png)
-
-### **Routes (`login_routes.js`)**
-![Routes](screenshots/login_routes.png)
-
-
----
 
 ## **🚀 Améliorations futures**
 ✔️ Mise en place d'un **système de rafraîchissement des tokens (Refresh Token)**  

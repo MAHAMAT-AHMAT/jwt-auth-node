@@ -120,11 +120,11 @@ Voici un aperçu des utilisateurs enregistrés dans MongoDB :
 ---
 ## 🚀 Code du backend
 
-| ![Modèle utilisateur](screenshots/user_model.png) | ![Contrôleur](screenshots/login_controller.png) |
+| ![Index.js](screenshots/index.png) | ![Contrôleur](screenshots/login_controller.png) |
 |:------------------------------------------------:|:----------------------------------------------:|
 | **Modèle utilisateur**                           | **Contrôleur**                                 |
 
-| ![Routes](screenshots/login_routes.png) | ![Index.js](screenshots/index.png) |
+| ![Routes](screenshots/login_routes.png) | ![Modèle utilisateur](screenshots/user_model.png) |
 |:--------------------------------------:|:---------------------------------:|
 | **Routes**                             | **Index.js**                      |
 

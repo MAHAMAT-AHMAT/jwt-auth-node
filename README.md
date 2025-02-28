@@ -122,11 +122,11 @@ Voici un aperçu des utilisateurs enregistrés dans MongoDB :
 
 | ![Index.js](screenshots/index.png) | ![Contrôleur](screenshots/login_controller.png) |
 |:------------------------------------------------:|:----------------------------------------------:|
-| **Modèle utilisateur**                           | **Contrôleur**                                 |
+| **Index.js**                            | **Contrôleur**                                 |
 
 | ![Routes](screenshots/login_routes.png) | ![Modèle utilisateur](screenshots/user_model.png) |
 |:--------------------------------------:|:---------------------------------:|
-| **Routes**                             | **Index.js**                      |
+| **Routes**                              | **Modèle utilisateur**                      |
 
 ---
 ## 🔑 Authentification

@@ -113,12 +113,6 @@ Le serveur sera lancé sur :
 
 ---
 
-## **📂 Structure du projet**
-Voici l’organisation des fichiers dans le projet :
-![Structure du projet](screenshots/structure_projet.png)
-
----
-
 ## **🛠 Base de données**
 Voici un aperçu des utilisateurs enregistrés dans MongoDB :
 ![Base de données](screenshots/base_de_donnee.png)

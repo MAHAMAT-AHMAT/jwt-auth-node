@@ -118,33 +118,20 @@ Voici un aperçu des utilisateurs enregistrés dans MongoDB :
 ![Base de données](screenshots/base_de_donnee.png)
 
 ---
-## **🚀 Code du backend**
+## 🚀 Code du backend
 
-### **Modèle utilisateur (`user_model.js`)**
-![Modèle utilisateur](screenshots/user_model.png)
-
-### **Controlleur (`login_controller.js`)**
-![Routes](screenshots/login_controller.png)
-
-### **Routes (`login_routes.js`)**
-![Routes](screenshots/login_routes.png)
-
-### **index.js (Configuration du serveur)**
-![Index.js](screenshots/index.png)
+| ![Modèle utilisateur](screenshots/user_model.png) | ![Contrôleur](screenshots/login_controller.png) | ![Routes](screenshots/login_routes.png) | ![Index.js](screenshots/index.png) |
+|:------------------------------------------------:|:----------------------------------------------:|:--------------------------------------:|:---------------------------------:|
+| **Modèle utilisateur**                           | **Contrôleur**                                 | **Routes**                             | **Index.js**                      |
 
 ---
+## 🔑 Authentification
 
-## **🔑 Authentification**
-### **1️⃣ Inscription réussie**
-![Inscription réussie](screenshots/Inscription_reussi.png)
-
-### **2️⃣ Connexion réussie**
-![Connexion réussie](screenshots/connexion_reussi.png)
+| ![Inscription réussie](screenshots/Inscription_reussi.png) | ![Connexion réussie](screenshots/connexion_reussi.png) |
+|:---------------------------------------------------------:|:-----------------------------------------------------:|
+| **Inscription réussie**                                   | **Connexion réussie**                                 |
 
 ---
-
-
-
 ## **🚀 Améliorations futures**
 ✔️ Mise en place d'un **système de rafraîchissement des tokens (Refresh Token)**  
 ✔️ Gestion avancée des **rôles et permissions** des utilisateurs  
